@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 
-data = pd.read_csv("C:/Users/Oottu/OneDrive/Desktop/Krishna/University of Glasgow/04. Comp Social Intelligence/Assessed Exercise/Assessment 1/laughter-corpus.csv")
+data = pd.read_csv("laughter-corpus.csv")
 #print(data)
 
 #-------------------------------------------------------------------------------------------------------
